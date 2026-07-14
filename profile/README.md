@@ -1,5 +1,3 @@
-# Massively Labs
-
 **Composable GPU computing in Rust.**
 
 Massively Labs is an open-source organization building reusable parallel algorithms and experimental GPU-accelerated systems in Rust.
